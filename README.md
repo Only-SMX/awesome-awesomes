@@ -4,14 +4,14 @@
 collect all awesome awesomes from github
 
 # Most-stars awesome
-[awesome](https://github.com/sindresorhus/awesome) by @sindresorhus
+[awesome](https://github.com/sindresorhus/awesome) by [@sindresorhus](https://github.com/sindresorhus)
 
 # Android Root
 **🛡️ The Ultimate Android Rooting Hub**
 
 Discover 500+ top root apps, Magisk/ KernelSU/ LSPosed(xposed) modules & step-by-step guides for every device.
 
-[Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) by @12britz
+[Awesome Android Root](https://github.com/awesome-android-root/awesome-android-root) by [@12britz](https://github.com/12britz)
 
 # Free AI Models
 A curated list of free AI models, APIs, and tools you can use without paying a cent.
