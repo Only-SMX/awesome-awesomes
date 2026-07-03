@@ -4,7 +4,8 @@
 collect all awesome awesomes from github
 
 # Most-stars awesome
-[awesome](https://github.com/sindresorhus/awesome) by [@sindresorhus](https://github.com/sindresorhus)
+1- [awesome](https://github.com/sindresorhus/awesome) by [@sindresorhus](https://github.com/sindresorhus)
+2- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) by [@bayandin](https://github.com/bayandin)
 
 # Android Root
 **🛡️ The Ultimate Android Rooting Hub**
